@@ -1,0 +1,6 @@
+"sandiego" is a very simple GeoIP webservice using the Sinatra framework.
+
+It was inspired by the need to have access to basic GeoIP lookup functionality
+that many times is not included in shared hosting environments, and due to
+library dependencies can't be easily added to projects in such environments.
+
