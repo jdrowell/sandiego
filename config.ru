@@ -1,4 +1,5 @@
+require 'rubygems'
 require 'geoip'
 
-run Sinatra::Application
+run GeoIP::Application
 
